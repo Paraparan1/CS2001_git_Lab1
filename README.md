@@ -379,3 +379,8 @@ Student ID | Movie | Year of Release
 1945381 | Inside Out | 2015
 1945381 | Little Women | 2019
 1945381 | Onward | 2020
+1911252 | Batman Begins | 2005
+1911252 | Avengers Endgame | 2019 
+1911252 | Random movie | 2003 
+1911252 | Random movie | 2004 
+1911252 | Random movie | 2005 
